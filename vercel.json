@@ -1,5 +1,0 @@
-{
-  "source": "/:slug",
-  "destination": "https://xemhinhanhdep.net/graphql/:slug",
-  "statusCode": 301
-}
